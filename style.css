@@ -1,0 +1,27 @@
+:root{
+    /* las variables se colocan con guiones -- */
+    --color-primario: #33384e;
+    --color-secundario: #66324c;
+    --background: #992c4b;
+    --text-size: 1.5rem;
+    --color-text: #003e4f;
+
+}
+body{
+    font-family: "Quicksand", sans-serif;
+    background: rgb(104,13,166);
+    background: linear-gradient(90deg, rgba(104,13,166,1) 0%, rgba(253,138,29,1) 50%, rgba(228,18,18,1) 100%);
+    height: 10vh;
+    color: ;
+    display: flex;
+    justify-content: center;
+
+}
+.contenedor{
+    max-width: 80%;
+    width: 400px;
+    height: 600px;
+    margin: 0 auto;
+    padding: 40px;
+    
+}
